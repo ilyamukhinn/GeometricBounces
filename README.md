@@ -71,9 +71,11 @@
 
 # Demo
 
-<p align="center">
-  <img src="media/demo.gif" alt="Demo GIF">
-</p>
+<div style="text-align: center;">
+    <video width="640" height="360" controls>
+        <source src="[demo.mp4](https://youtu.be/90AFiiRwNOY)" type="video/mp4">
+    </video>
+</div>
 
 <!-- RESOURCES LINKS -->
 [SFML-url]: https://www.sfml-dev.org/
