@@ -71,11 +71,13 @@
 
 # Demo
 
-<div style="text-align: center;">
-    <video width="640" height="360" controls>
-        <source src="[demo.mp4](https://youtu.be/90AFiiRwNOY)" type="video/mp4">
-    </video>
-</div>
+Вы можете ознакомиться с demo [видео](https://www.youtube.com/watch?v=90AFiiRwNOY) приложения, нажав на превью ниже:
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=90AFiiRwNOY" target="_blank">
+    <img src="https://img.youtube.com/vi/90AFiiRwNOY/maxresdefault.jpg" alt="Watch the video">
+  </a>
+</p>
 
 <!-- RESOURCES LINKS -->
 [SFML-url]: https://www.sfml-dev.org/
